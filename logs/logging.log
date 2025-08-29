@@ -1,0 +1,128 @@
+[2025-08-29 00:37:02,563: ERROR: 905446175: Error occurred: ConfigurationManager.__init__() missing 3 required positional arguments: 'config_filepath', 'params_filepath', and 'schema_filepath']
+[2025-08-29 00:39:22,420: ERROR: 2115985974: Error occurred: name 'config_filepath' is not defined]
+[2025-08-29 00:39:36,632: ERROR: 2115985974: Error occurred: name 'config_filepath' is not defined]
+[2025-08-29 00:41:02,124: ERROR: 2115985974: Error occurred: name 'config_filepath' is not defined]
+[2025-08-29 00:43:35,443: ERROR: 2115985974: Error occurred: name 'config_filepath' is not defined]
+[2025-08-29 00:43:41,886: ERROR: 2115985974: Error occurred: name 'config_filepath' is not defined]
+[2025-08-29 00:45:01,482: ERROR: 2115985974: Error occurred: name 'config_filepath' is not defined]
+[2025-08-29 00:49:38,054: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 00:49:38,062: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 00:49:38,064: ERROR: 2115985974: Error occurred: YAML file params.yaml is empty.]
+[2025-08-29 00:50:06,017: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 00:50:06,022: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 00:50:06,025: ERROR: 2115985974: Error occurred: YAML file params.yaml is empty.]
+[2025-08-29 00:50:11,581: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 00:50:11,585: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 00:50:11,587: ERROR: 2115985974: Error occurred: YAML file params.yaml is empty.]
+[2025-08-29 00:50:15,203: ERROR: 2115985974: Error occurred: [Errno 2] No such file or directory: 'config/config.yaml']
+[2025-08-29 01:02:07,847: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 01:02:07,851: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 01:02:07,853: ERROR: 2115985974: Error occurred: YAML file params.yaml is empty.]
+[2025-08-29 01:04:02,744: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 01:04:02,747: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 01:04:02,748: ERROR: 2115985974: Error occurred: YAML file params.yaml is empty.]
+[2025-08-29 01:04:05,727: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 01:04:05,729: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 01:04:05,730: ERROR: 2115985974: Error occurred: YAML file params.yaml is empty.]
+[2025-08-29 01:06:36,231: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 01:06:36,235: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 01:06:36,237: ERROR: 2115985974: Error occurred: YAML file params.yaml is empty.]
+[2025-08-29 01:06:57,595: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 01:06:57,597: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 01:06:57,600: ERROR: 2115985974: Error occurred: YAML file params.yaml is empty.]
+[2025-08-29 01:13:28,256: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 01:13:28,260: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 01:13:28,262: ERROR: 2115985974: Error occurred: YAML file params.yaml is empty.]
+[2025-08-29 01:24:46,347: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 01:24:46,353: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 01:24:46,355: ERROR: 3561158706: Error occurred: YAML file params.yaml is empty.]
+[2025-08-29 01:24:56,802: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 01:24:56,805: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 01:24:56,808: ERROR: 3561158706: Error occurred: YAML file params.yaml is empty.]
+[2025-08-29 01:25:05,269: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 01:25:05,273: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 01:25:05,275: ERROR: 3561158706: Error occurred: YAML file params.yaml is empty.]
+[2025-08-29 01:30:33,631: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 01:30:33,638: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 01:30:33,639: ERROR: 276992395: Error occurred: YAML file params.yaml is empty.]
+[2025-08-29 01:43:37,295: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 01:43:37,299: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 01:54:43,250: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 01:54:43,267: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 01:57:41,260: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 01:57:41,264: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 01:58:24,616: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 01:58:24,624: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 01:58:24,628: INFO: common: YAML file schema.yaml loaded successfully.]
+[2025-08-29 01:58:24,631: INFO: common: Created directory: artifacts]
+[2025-08-29 01:58:24,635: INFO: common: Created directory: artifacts/data_ingestion]
+[2025-08-29 01:58:25,015: INFO: 2529087064: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C5E6:9E030:32CC4:94AA6:68B0FB31
+Accept-Ranges: bytes
+Date: Fri, 29 Aug 2025 00:58:28 GMT
+Via: 1.1 varnish
+X-Served-By: cache-lon4279-LON
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1756429109.814587,VS0,VE107
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 83546ca882333e48be43d72a1419c676cbac8073
+Expires: Fri, 29 Aug 2025 01:03:28 GMT
+Source-Age: 0
+
+]
+[2025-08-29 01:58:25,021: INFO: 2529087064: Data unzipped to artifacts/data_ingestion]
+[2025-08-29 22:44:59,502: INFO: main: This is a standard message from the logger]
+[2025-08-29 22:54:01,547: INFO: main: >>>>> stage Data Ingestion Stage started <<<<<]
+[2025-08-29 22:54:01,549: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-29 22:54:01,553: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-29 22:54:01,554: INFO: common: YAML file schema.yaml loaded successfully.]
+[2025-08-29 22:54:01,555: INFO: common: Created directory: artifacts]
+[2025-08-29 22:54:01,555: INFO: common: Created directory: artifacts/data_ingestion]
+[2025-08-29 22:54:01,555: INFO: data_ingestion: artifacts/data_ingestion/data.zip already exists.]
+[2025-08-29 22:54:01,563: INFO: data_ingestion: Data unzipped to artifacts/data_ingestion]
+[2025-08-29 22:54:01,563: INFO: main: >>>>> stage Data Ingestion Stage completed <<<<<
+
+x==========x]
+[2025-08-30 00:30:14,849: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-30 00:30:14,860: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-30 00:30:14,865: INFO: common: YAML file schema.yaml loaded successfully.]
+[2025-08-30 00:30:14,867: INFO: common: Created directory: artifacts]
+[2025-08-30 00:30:14,869: INFO: common: Created directory: artifacts/data_validation]
+[2025-08-30 00:32:09,216: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-30 00:32:09,220: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-30 00:32:09,225: INFO: common: YAML file schema.yaml loaded successfully.]
+[2025-08-30 00:32:09,229: INFO: common: Created directory: artifacts]
+[2025-08-30 00:32:09,231: INFO: common: Created directory: artifacts/data_validation]
+[2025-08-30 00:56:16,075: INFO: main: >>>>> stage Data Ingestion Stage started <<<<<]
+[2025-08-30 00:56:16,077: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-30 00:56:16,079: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-30 00:56:16,082: INFO: common: YAML file schema.yaml loaded successfully.]
+[2025-08-30 00:56:16,082: INFO: common: Created directory: artifacts]
+[2025-08-30 00:56:16,082: INFO: common: Created directory: artifacts/data_ingestion]
+[2025-08-30 00:56:16,083: INFO: data_ingestion: artifacts/data_ingestion/data.zip already exists.]
+[2025-08-30 00:56:16,090: INFO: data_ingestion: Data unzipped to artifacts/data_ingestion]
+[2025-08-30 00:56:16,090: INFO: main: >>>>> stage Data Ingestion Stage completed <<<<<
+
+x==========x]
+[2025-08-30 00:56:16,090: INFO: main: >>>>> stage Data Validation Stage started <<<<<]
+[2025-08-30 00:56:16,092: INFO: common: YAML file config/config.yaml loaded successfully.]
+[2025-08-30 00:56:16,094: INFO: common: YAML file params.yaml loaded successfully.]
+[2025-08-30 00:56:16,096: INFO: common: YAML file schema.yaml loaded successfully.]
+[2025-08-30 00:56:16,097: INFO: common: Created directory: artifacts]
+[2025-08-30 00:56:16,097: INFO: common: Created directory: artifacts/data_validation]
+[2025-08-30 00:56:16,108: INFO: main: >>>>> stage Data Validation Stage completed <<<<<
+
+x==========x]

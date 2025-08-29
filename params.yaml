@@ -1,0 +1,10 @@
+# params.yaml
+base:
+  random_state: 42
+  test_size: 0.2
+
+data_ingestion:
+  timeout_sec: 60
+  retries: 3
+  chunk_size: 1048576   # 1 MB
+  verify_ssl: true
